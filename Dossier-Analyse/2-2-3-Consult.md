@@ -1,0 +1,1 @@
+Application permettant à tout le monde de consulter tous les comptes déposés auprès de la Banque
