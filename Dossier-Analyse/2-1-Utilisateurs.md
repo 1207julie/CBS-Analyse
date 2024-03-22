@@ -11,4 +11,3 @@ Moniteur belge : vérifie que ceux qui sont tenus de déposer des comptes annuel
 Banque carrefour des entreprises : donne un lien d'accès aux données via recherche d'une entreprise
 SPF Economie : 
 
-HElllo
