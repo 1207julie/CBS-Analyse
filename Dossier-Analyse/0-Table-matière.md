@@ -12,3 +12,9 @@
 2.2.écrans
 2.Analyse fonctionnelle
 3.Glossaire
+4. Backlog
+5.1.Contact center
+5.2.Collecte
+5.3.Vérification
+5.4.Comptabilité
+5.5.Support
