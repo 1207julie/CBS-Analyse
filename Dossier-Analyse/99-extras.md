@@ -1,2 +1,0 @@
-Filing : Application permettant d'établir et de déposer des comptes annuels auprès de la Banque
-Consult : Application permettant à tout le monde de consulter tous les comptes annuels déposés auprès de la Banque
