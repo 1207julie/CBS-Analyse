@@ -3,6 +3,7 @@
 
 ## Entity ##
 
+![entity](./Images/Entity.PNG)
 ---
 
 [>> Architecture](6-0-architecture.md)

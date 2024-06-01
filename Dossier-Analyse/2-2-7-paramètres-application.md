@@ -3,7 +3,7 @@
 
 ## Paramètres ##
 
-Cet écran nous permet de choisir entre 19 sous écrans :
+Cet écran nous permet de choisir entre 19 écrans :
 
 1) Libellés : 
 2) Messages : 

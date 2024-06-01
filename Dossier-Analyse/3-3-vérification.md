@@ -1,8 +1,8 @@
 ## 1. Attribution liste priorité ##
-En tant que Manager du service de vérification, je dois pouvoir attribuer une liste de comptes à vérifier à un membre de mon équipe ainsi je peux répartir le travail prioritaire.
+En tant que Manager du service de vérification, je veux pouvoir attribuer une liste de comptes à vérifier à un membre de mon équipe ainsi je peux répartir le travail prioritaire.
 
 ## 2. Assignation comptes ##
-En tant qu'opérateur à la validation, je dois pouvoir m'assigner des comptes de la liste à vérifier ainsi je peux effectuer mon travail.
+En tant qu'opérateur à la validation, je veux pouvoir m'assigner des comptes de la liste à vérifier ainsi je peux effectuer mon travail.
 
 Précondition : l'employé est authentifié
 
@@ -25,4 +25,4 @@ Post-conditions :
 En tant qu'employé de la vérification, je veux pouvoir valider un compte que je viens de vérifier ainsi celui-ci pourra être repris dans les statistiques. 
 
 ## 4. Consultation corrections ##
-En tant qu'employé de la vérification, je veux pouvoir consulter les corrections apportés à un compte ainsi je peux me baser sur des données correctes pour effectuer mes propres corrections. 
+En tant qu'employé de la vérification, je veux pouvoir consulter les corrections apportées à un compte ainsi je peux me baser sur des données correctes pour effectuer mes propres corrections. 
