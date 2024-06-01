@@ -3,7 +3,10 @@
 
 ## Comptabilité ##
 
-Cet écran nous permet de choisir 4 sous écrans : 
+Cet écran nous permet de choisir entre 4 écrans : 
+
+![comptabilité](./Images/Compta_Toutes_transactions.png)
+
 1) Toutes les transactions :
 Dans le haut de cet écran, il y a des paramètres de recherche par défaut :
     - Référence de paiement ;

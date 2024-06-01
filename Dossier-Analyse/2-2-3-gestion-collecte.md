@@ -5,7 +5,7 @@
 
 En haut de ce premier écran, il y a par défault une valeur d'affichage mise à 20 lignes, et la possibilité de soit diminuer à 5 ou 10 ou d'augmenter le nombre de lignes à 40 ou 60 (cette configuration est également reprise dans les deux sous-écrans qui suivent).
 
-Cet écran nous permet de choisir entre deux sous-écrans : 
+Cet écran nous permet de choisir entre 2 écrans : 
 1) Un premier reprennant tous les dépôts à investiguer sous forme de tableau avec plusieurs colonnes reprennant les données suivantes : 
    - Date de dépôt;
    - Entreprise;

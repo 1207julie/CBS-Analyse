@@ -9,7 +9,7 @@ L'authentification est réalisée en OpenID avec Microsoft Azure Entra ID.
 
 CBS-app utilise les librairies :
 - azure.identity pour l'authentification ;
-- 
+
 ---
 
 [>> Glossaire](7-0-glossaire.md)

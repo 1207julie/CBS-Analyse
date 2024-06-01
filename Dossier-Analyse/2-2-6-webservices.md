@@ -3,7 +3,7 @@
 
 ##  Webservices ##
 
-Cet écran nous permet de choisir 2 sous écrans :
+Cet écran nous permet de choisir 2 écrans :
 
 1) Abonnés : (par défaut 20 éléments sont affichés par page, possibilité de diminuer ou d'augmenter cet affichage).
 En haut de page, un compteur total des éléments repris dans cette liste. 

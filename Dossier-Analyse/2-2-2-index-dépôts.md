@@ -5,7 +5,7 @@
 
 Cet écran permet aux utilisateurs d'effectuer des recherches sur base de différents critères : 
 
-![index dépôts](./Images\Collecte_Index.png)
+![index dépôts](./Images/Collecte_Index.png)
 
 Les quatres premiers points seront les paramètres de base affichés à l'écran : 
 - Numéro d'entreprise ;

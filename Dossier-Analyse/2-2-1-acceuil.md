@@ -5,7 +5,7 @@
 
 Ce premier écran nous propose un menu à gauche avec les différents accès : 
 
-![écran d'accueil](./Images\Menu_acceuil.png)
+![écran d'accueil](./Images/Menu_acceuil.png)
 
 Du haut vers le bas : 
 - [Index des dépôts](./2-2-2-index-dépôts.md)
